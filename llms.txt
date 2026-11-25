@@ -1,0 +1,9 @@
+# God of War Classic Greek Saga PC Port & Static Recompilation (v3.7.9)
+
+> God of War Classic Greek Saga PC Port & Static Recompilation v3.7.9: Native Windows 10/11 (x64) studio environment with pre-configured.
+
+- [Official Portal & Documentation](https://martina1713.github.io/gow-pc-port-classic-recompiled/)
+- [Direct Release Package (gow-pc-port-classic-recompiled-v3.7.9-win64.zip)](https://github.com/martina1713/gow-pc-port-classic-recompiled/releases/download/v3.7.9/gow-pc-port-classic-recompiled-v3.7.9-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/martina1713/gow-pc-port-classic-recompiled)
+- [Installation Guide](https://github.com/martina1713/gow-pc-port-classic-recompiled/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/martina1713/gow-pc-port-classic-recompiled/blob/main/docs/FAQ.md)

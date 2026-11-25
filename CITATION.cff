@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "God of War Classic Greek Saga PC Port & Static Recompilation"
+abstract: "God of War Classic Greek Saga PC Port & Static Recompilation v3.7.9: Native Windows 10/11 (x64) studio environment with pre-configured."
+authors:
+  - alias: "martina1713"
+    name: "martina1713"
+version: "3.7.9"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/martina1713/gow-pc-port-classic-recompiled"
+url: "https://martina1713.github.io/gow-pc-port-classic-recompiled/"

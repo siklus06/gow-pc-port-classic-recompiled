@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://martina1713.github.io/gow-pc-port-classic-recompiled/sitemap.xml
